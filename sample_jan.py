@@ -1,4 +1,4 @@
 {
-  "abcd": "pqrs"
+  "abcd": "***REMOVED***"
 }
 # it is for testing purpose
